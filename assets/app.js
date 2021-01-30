@@ -9,3 +9,10 @@ var option = {
 };
 
 var typed = new Typed('#elements', option);   
+
+$(window).scroll(function() {
+    if ($(document).scrollTop() > (window.innerHeight*2) && $("#myModal").attr("displayed") === "false") {
+      $('#myModal').modal('show');
+      $("#myModal").attr("displayed", "true");
+    }
+  });
