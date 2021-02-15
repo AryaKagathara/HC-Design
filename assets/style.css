@@ -7,20 +7,7 @@
 }
 
 .zoomer:hover {
-    transform: scale(1.1);
-}
-
-.rotateme {
-    animation: rotation 5s infinite linear;
-}
-
-@keyframes rotation {
-    from {
-        transform: rotateZ(0deg)
-    }
-    from {
-        transform: rotateZ(360deg)
-    }
+    transform: scale(1.05);
 }
 
 #element {
@@ -34,4 +21,40 @@
 
 .bg-dark-gray {
     background-color: #2a2a2a;
+}
+
+/* Animations */
+.rotateme {
+    animation: rotation 5s infinite linear forwards;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotateZ(0deg)
+    }
+    from {
+        transform: rotateZ(360deg)
+    }
+}
+
+.shake {
+    animation: shakeme 0.82s cubic-bezier(.36,.07,.19,.97) both;
+}
+
+@keyframes shakeme {
+    10%, 90% {
+        transform: translate3d(-3px, 0, 0);
+      }
+      
+      20%, 80% {
+        transform: translate3d(5px, 0, 0);
+      }
+    
+      30%, 50%, 70% {
+        transform: translate3d(-7px, 0, 0);
+      }
+    
+      40%, 60% {
+        transform: translate3d(6px, 0, 0);
+      }
 }
