@@ -37,11 +37,11 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="content-wrapper align-left">
-              <h2
+              <h1
                 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5"
               >
                 Process
-              </h2>
+              </h1>
             </div>
           </div>
         </div>
@@ -53,11 +53,11 @@
         <div class="row">
           <div class="col-lg-8 title-col m-auto align-left">
             <div class="text-wrap align-left">
-              <h3
+              <h4
                 class="number mbr-medium pb-4 mbr-black mbr-fonts-style display-7"
               >
                 01
-              </h3>
+              </h4>
               <h2
                 class="mbr-section-title pb-4 mbr-semibold mbr-black mbr-fonts-style display-2"
               >
@@ -98,9 +98,9 @@
           </div>
           <div class="col-lg-8 title-col m-auto align-left order-0 order-md-1">
             <div class="text-wrap align-left">
-              <h3 class="number mbr-medium mbr-black mbr-fonts-style display-4">
+              <h4 class="number mbr-medium mbr-black mbr-fonts-style display-4">
                 02
-              </h3>
+              </h4>
               <h2
                 class="mbr-section-title py-4 mbr-semibold mbr-black mbr-fonts-style display-2"
               >
@@ -129,11 +129,11 @@
         <div class="row">
           <div class="col-lg-8 title-col m-auto align-left">
             <div class="text-wrap align-left">
-              <h3
+              <h4
                 class="number mbr-medium pb-4 mbr-black mbr-fonts-style display-7"
               >
                 03
-              </h3>
+              </h4>
               <h2
                 class="mbr-section-title pb-4 mbr-semibold mbr-black mbr-fonts-style display-2"
               >
@@ -174,9 +174,9 @@
           </div>
           <div class="col-lg-8 title-col m-auto align-left order-0 order-md-1">
             <div class="text-wrap align-left">
-              <h3 class="number mbr-medium mbr-black mbr-fonts-style display-4">
+              <h4 class="number mbr-medium mbr-black mbr-fonts-style display-4">
                 04
-              </h3>
+              </h4>
               <h2
                 class="mbr-section-title py-4 mbr-semibold mbr-black mbr-fonts-style display-2"
               >
@@ -195,6 +195,44 @@
                 experience shows that we are quite successful because.
               </p>
             </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="header1 cid-rpSfxBmryu" id="content006-2v">
+      <div class="container my-5">
+        <div class="row">
+          <div class="col-lg-8 title-col m-auto align-left">
+            <div class="text-wrap align-left">
+              <h4
+                class="number mbr-medium pb-4 mbr-black mbr-fonts-style display-7"
+              >
+                05
+              </h4>
+              <h2
+                class="mbr-section-title pb-4 mbr-semibold mbr-black mbr-fonts-style display-2"
+              >
+                Training & Service
+              </h2>
+              <p
+                class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7"
+              >
+                Our main value is the qualified transportation of our clients
+                goods. We need to focus on many things and specify the proccess
+                step-by-step. To procceed all that we need to take
+                responsibility,&nbsp;value our employee and develop their
+                skills. Also,&nbsp;we urge active listening to clear up needs
+                and also value responsiveness in all interactions.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 img-col">
+            <img
+              src="assets/images/illustration/service.svg"
+              alt="Bootstrap Code Examples "
+              title=""
+            />
           </div>
         </div>
       </div>

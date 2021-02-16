@@ -35,28 +35,28 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content-wrapper align-left">
-                        <h2 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
+                        <h1 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
                             FAQ
-                        </h2>
+                        </h1>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <div class="container my-5">
+    <section class="container my-5">
         <h2 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-5 mt-5 text-center">
             Frequently Asked Questions 
         </h2>
         <div id="accordion">
             <div class="card">
                 <div class="card-header" id="headingOne">
-                    <h1 class="mb-0">
+                    <h3 class="mb-0">
                         <button class="btn btn-link text-black text-decoration-none" data-toggle="collapse" data-target="#collapseOne"
                             aria-expanded="true" aria-controls="collapseOne">
                             Where is Hindustan Corporation ?
                         </button>
-                    </h1>
+                    </h3>
                 </div>
 
                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
@@ -67,12 +67,12 @@
             </div>
             <div class="card">
                 <div class="card-header" id="headingTwo">
-                    <h5 class="mb-0">
+                    <h3 class="mb-0">
                         <button class="btn btn-link collapsed text-black" data-toggle="collapse" data-target="#collapseTwo"
                             aria-expanded="false" aria-controls="collapseTwo">
                             Collapsible Group Item #2
                         </button>
-                    </h5>
+                    </h3>
                 </div>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                     <div class="card-body">
@@ -88,12 +88,12 @@
             </div>
             <div class="card">
                 <div class="card-header" id="headingThree">
-                    <h5 class="mb-0">
+                    <h3 class="mb-0">
                         <button class="btn btn-link collapsed text-black" data-toggle="collapse" data-target="#collapseThree"
                             aria-expanded="false" aria-controls="collapseThree">
                             Collapsible Group Item #3
                         </button>
-                    </h5>
+                    </h3>
                 </div>
                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                     <div class="card-body">
@@ -109,12 +109,12 @@
             </div>
             <div class="card">
                 <div class="card-header" id="headingFour">
-                    <h5 class="mb-0">
+                    <h3 class="mb-0">
                         <button class="btn btn-link collapsed text-black" data-toggle="collapse" data-target="#collapseFour"
                             aria-expanded="false" aria-controls="collapseFour">
                             Collapsible Group Item #4
                         </button>
-                    </h5>
+                    </h3>
                 </div>
                 <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                     <div class="card-body">
@@ -129,7 +129,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </section>
 
     <!-- Footnote -->
     <?php include('footnote/footnote.php') ?>

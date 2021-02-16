@@ -35,18 +35,36 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content-wrapper align-left">
-                        <h2 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
+                        <h1 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
                             Gallary
-                        </h2>
+                        </h1>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <div class="container-fluid">
+    <section class="container-fluid my-5">
         <div class="row m-auto">
-            <div class="col-md-4 col-lg-4">
+            <div class="col-sm-12 col-md-12 col-lg-4 m-auto p-5">
+                <div class="align-left">
+                    <h2 class="mbr-section-title py-4 mbr-semibold mbr-black mbr-fonts-style display-5 font-1">
+                        Machines & Products
+                    </h2>
+                    <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7">
+                        Industry-leading business normally have a number of benefits,
+                        such as valuing power, brand recognition as well as a dedicated
+                        customer base. It takes some time to attain a dominant position
+                        in an industry, and maintaining that leadership placement is a
+                        continuous initiative. Industry-leading business normally have a
+                        number of benefits, such as valuing power, brand recognition as
+                        well as a dedicated customer base. It takes some time to attain
+                        a dominant position in an industry, and maintaining that
+                        leadership placement is a continuous initiative.
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-12 col-lg-6">
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -61,7 +79,7 @@
                             <img class="d-block w-100" src="assets/images/03.jpg" alt="Second slide" />
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="assets/images/01.png" alt="Third slide" />
+                            <img class="d-block w-100" src="assets/images/04.jpg" alt="Third slide" />
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -74,35 +92,9 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-4 col-lg-4">
-                <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel">
-                    <ol class="carousel-indicators">
-                        <li data-target="#carouselExampleIndicators1" data-slide-to="0" class="active"></li>
-                        <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
-                        <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img class="d-block w-100" src="assets/images/01.png" alt="First slide" />
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" src="assets/images/05.jpg" alt="Second slide" />
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" src="assets/images/02.jpg" alt="Third slide" />
-                        </div>
-                    </div>
-                    <a class="carousel-control-prev" href="#carouselExampleIndicators1" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#carouselExampleIndicators1" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-4">
+        </div>
+        <div class="row my-5">
+            <div class="col-sm-12 col-md-12 col-lg-6 order-sm-0 order-sm-0 order-1">
                 <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
@@ -111,13 +103,13 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-100" src="assets/images/06.jpg" alt="First slide" />
+                            <img class="d-block w-100" src="assets/images/02.jpg" alt="First slide" />
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="assets/images/04.jpg" alt="Second slide" />
+                            <img class="d-block w-100" src="assets/images/03.jpg" alt="Second slide" />
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="assets/images/07.jpg" alt="Third slide" />
+                            <img class="d-block w-100" src="assets/images/04.jpg" alt="Third slide" />
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
@@ -130,8 +122,26 @@
                     </a>
                 </div>
             </div>
+            <div class="col-sm-12 col-md-12 col-lg-4 m-auto order-sm-1 order-0 p-5">
+                <div class="align-left">
+                    <h2 class="mbr-section-title py-4 mbr-semibold mbr-black mbr-fonts-style display-5 font-1">
+                        Industry & Office
+                    </h2>
+                    <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7">
+                        Industry-leading business normally have a number of benefits,
+                        such as valuing power, brand recognition as well as a dedicated
+                        customer base. It takes some time to attain a dominant position
+                        in an industry, and maintaining that leadership placement is a
+                        continuous initiative. Industry-leading business normally have a
+                        number of benefits, such as valuing power, brand recognition as
+                        well as a dedicated customer base. It takes some time to attain
+                        a dominant position in an industry, and maintaining that
+                        leadership placement is a continuous initiative.
+                    </p>
+                </div>
+            </div>
         </div>
-    </div>
+    </section>
 
     <!-- Footer -->
     <?php include('footer/footer.php') ?>

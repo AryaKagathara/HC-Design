@@ -35,9 +35,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content-wrapper align-left">
-                        <h2 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
+                        <h1 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
                             Clients & Partners
-                        </h2>
+                        </h1>
                     </div>
                 </div>
             </div>
@@ -47,12 +47,12 @@
     <section class="header1 cid-rpRpiBt1gH" id="team001-26">
         <div class="container">
             <marquee class="row">
-                <img src="assets/images/extras/gidc.png" alt="gidc" class="col-3">
-                <img src="assets/images/extras/im.png" alt="indiamart" class="col-3">
-                <img src="assets/images/extras/ali.png" alt="indiamart" class="col-3">
+                <img src="assets/images/extras/gidc.png" alt="Gujarat Industrial Developement Board is our industrial basic supply developement community" class="col-3">
+                <img src="assets/images/extras/im.png" alt="India Mart is our indian region catalog sponcers" class="col-3">
+                <img src="assets/images/extras/ali.png" alt="Alibaba is our global region catalog sponcers" class="col-3">
             </marquee>
             <div class="m-auto py-5 align-center">
-                <a class="btn-sm btn-success display-7 text-center" href="about.php">About Us</a>
+                <a class="btn-sm btn-success display-7 text-center font-1" href="about.php">About Us</a>
             </div>
         </div>
         </div>

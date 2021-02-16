@@ -35,9 +35,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content-wrapper align-left">
-                        <h2 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
+                        <h1 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
                             About Us
-                        </h2>
+                        </h1>
                     </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@
             </h2>
             <div class="row mb-5">
                 <div class="col-lg-6 img-col order-sm-0 order-1">
-                    <img src="assets/images/main.svg" title="Industries" />
+                    <img src="assets/images/main.svg" title="Industries" alt="Hindustan Corporation Fence Machine Industry Physical Site, Buildings, Factory, Trucks"/>
                 </div>
                 <div class="col-lg-6 title-col m-auto align-left">
                     <div class="align-left">
@@ -92,7 +92,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 img-col order-sm-1 order-0">
-                    <img src="assets/images/main2.svg" title="Office" />
+                    <img src="assets/images/main2.svg" title="Office" alt="Hindustan Corporation Fence Machine Industry Head Office, Buildings, Complex, City"/>
                 </div>
             </div>
             <div class="row">
@@ -139,10 +139,10 @@
                 </div>
                 <div class="row d-flex justify-content-around">
                     <div class="col-sm-3 col-md-4 col-lg-3">
-                        <img src="assets/images/product/welded-wire3.png" alt="Fence Wire">
+                        <img src="assets/images/product/welded-wire3.png" alt="Hindustan Corporation Welded Wire Fence Machine Product, Product, Wire">
                     </div>
                     <div class="col-sm-3 col-md-4 col-lg-3">
-                        <img src="assets/images/product/paper-cones.png" alt="Paper Cone">
+                        <img src="assets/images/product/paper-cones.png" alt="Hindustan Corporation Colered Paper Cone Machine Product, Red, Blue, Green, Paper Cone">
                     </div>
                 </div>
                 <div class="m-auto py-5 align-center">

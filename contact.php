@@ -35,24 +35,24 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content-wrapper align-left">
-                        <h2 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
+                        <h1 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
                             Contact Us
-                        </h2>
+                        </h1>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <div class="container my-5">
+    <section class="container my-5">
         <div class="row">
             <div class="col-sm-12 col-sm-12 col-lg-6">
-                <h1 class="display-1 text-success mbr-text mbr-black mbr-regular mbr-bold mbr-fonts-style font-1">
+                <h2 class="display-1 text-success mbr-text mbr-black mbr-regular mbr-bold mbr-fonts-style font-1">
                     Let's Connect
-                </h1>
-                <h1 class="fs-1 text-black mbr-text mbr-black mbr-regular mbr-bold mbr-fonts-style font-1">
+                </h2>
+                <h3 class="fs-1 text-black mbr-text mbr-black mbr-regular mbr-bold mbr-fonts-style font-1">
                     Where to find us
-                </h1>
+                </h3>
                 <div class="my-3">
                     <p class="text-black mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style font-1">Feel Free to
                         get
@@ -61,7 +61,7 @@
                 </div>
                 <div class="my-4">
                     <p class="text-black mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style font-1">Mail Us</p>
-                    <h5 class="shake line-height-base">
+                    <h3 class="shake line-height-base">
                         <a class="mbr-text mb-0 mbr-fonts-style font-weight-bold font-1 text-black"
                             href="<?php echo "mailto:",$array['Email1'] ?>">
                             <?php 
@@ -75,11 +75,10 @@
               echo $array['Email2'];
             ?>
                         </a>
-                    </h5>
+                    </h3>
                 </div>
                 <div class="my-4">
-                    <p class="text-black mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style font-1">Call Officials
-                        Talking
+                    <p class="text-black mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style font-1">Call Us
                     </p>
                     <h5 class="shake">
                         <a class="mbr-text mb-0 mbr-fonts-style font-weight-bold font-1 text-black"
@@ -98,11 +97,10 @@
                     </h5>
                 </div>
                 <div class="my-4">
-                    <p class="text-black mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style font-1">Head Office</p>
-                    <iframe
-                        src="<?php echo $array['LocationMap1'] ?>"
-                        width="90%" height="300px" frameborder="0" style="border:0;" allowfullscreen=""
-                        aria-hidden="false" tabindex="0"></iframe>
+                    <p class="text-black mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style font-1">Head Office
+                    </p>
+                    <iframe src="<?php echo $array['LocationMap1'] ?>" width="90%" height="300px" frameborder="0"
+                        style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     <h5 class="mbr-text mb-0 mbr-fonts-style font-weight-bold font-1 text-black">
                         <?php echo $array['Location1']; ?>
                         <br>
@@ -111,15 +109,25 @@
                 </div>
             </div>
             <div class="col-sm-12 col-sm-12 col-lg-6 mt-5">
-                <p class="text-muted mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style font-1 mt-5">We don't share any data to any third-party</p>
+                <p class="text-muted mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style font-1 mt-5">We don't
+                    share any data to any third-party</p>
                 <h1 class="fs-1 text-black mbr-text mbr-black mbr-regular mbr-bold mbr-fonts-style font-1">
-                    Tell us about your dream.
+                    Find our latest updates.
                 </h1>
-                <iframe
-                    src="<?php echo $array['Feedback'] ?>"
-                    width="100%" height="1600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                <div class="container">
+                    <div class="row mb-3">
+                        <a class="btn-sm btn-success display-7 col-12 text-center py-4"
+                            href="<?php echo $array['Brousher']; ?>" download>Download Our Brousher</a>
+                    </div>
+                    <div class="row">
+                        <a href="<?php echo $array['NewsLetter']; ?>"
+                            class="btn-sm btn-dark text-white display-7 col-12 text-center py-4">Subscribe Our
+                            Newsletter</a>
+                    </div>
+                </div>
             </div>
         </div>
+    </section>
     </div>
 
     <!-- Footer -->

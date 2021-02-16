@@ -35,51 +35,51 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content-wrapper align-left">
-                        <h2 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
+                        <h1 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
                             All Products
-                        </h2>
+                        </h1>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <div class="container my-5">
+    <section class="container my-5">
         <h3 class="fs-1 text-black mbr-text mbr-black mbr-regular mbr-fonts-style font-1">
             Wire Fence
         </h3>
         <hr>
-        <div class="row">
+        <div class="row m-auto">
             <div class="card col-sm-12 col-md-6 col-lg-3 my-3 py-5">
                 <img class="card-img-top" src="assets/images/product/welded-wire.png" alt="Card image cap">
                 <div class="card-body text-center">
-                    <h5 class="card-title">Welded Wire Mesh Fencing Machine</h5>
-                    <p class="card-text">Approx ₹ 25 Lakhs</p>
-                    <a href="Welded-Wire-Mesh-Fencing-Machine.php" class="btn btn-sm btn-success">Find More</a>
+                    <h3 class="card-title display-7 font-1">Welded Wire Mesh Fencing Machine</h3>
+                    <p class="card-text font-1">Approx ₹ 25 Lakhs</p>
+                    <a href="Welded-Wire-Mesh-Fencing-Machine.php" class="btn btn-sm btn-success font-1">Find More</a>
                 </div>
             </div>
             <div class="card col-sm-12 col-md-6 col-lg-3 my-3 py-4">
                 <img class="card-img-top" src="assets/images/product/wire-mesh.png" alt="Card image cap">
                 <div class="card-body text-center">
-                    <h5 class="card-title">Wire Mesh Welding Machine</h5>
-                    <p class="card-text">Approx ₹ 23 Lakhs</p>
-                    <a href="#" class="btn btn-sm btn-success">Find More</a>
+                    <h3 class="card-title display-7 font-1">Wire Mesh Welding Machine</h3>
+                    <p class="card-text font-1">Approx ₹ 23 Lakhs</p>
+                    <a href="#" class="btn btn-sm btn-success font-1">Find More</a>
                 </div>
             </div>
             <div class="card col-sm-12 col-md-6 col-lg-3 my-3 py-2">
                 <img class="card-img-top" src="assets/images/product/chain-link.png" alt="Card image cap">
                 <div class="card-body text-center">
-                    <h5 class="card-title">Chain Link Fencing Machine</h5>
-                    <p class="card-text">Approx ₹ 9 Lakhs</p>
-                    <a href="#" class="btn btn-sm btn-success">Find More</a>
+                    <h3 class="card-title display-7 font-1">Chain Link Fencing Machine</h3>
+                    <p class="card-text font-1">Approx ₹ 9 Lakhs</p>
+                    <a href="#" class="btn btn-sm btn-success font-1">Find More</a>
                 </div>
             </div>
             <div class="card col-sm-12 col-md-6 col-lg-3 my-3">
                 <img class="card-img-top" src="assets/images/product/wire-mesh2.png" alt="Card image cap">
                 <div class="card-body text-center">
-                    <h5 class="card-title">Scrubber Making Machine And Stainless Steel Wire</h5>
-                    <p class="card-text">Approx ₹ 4 Lakhs</p>
-                    <a href="#" class="btn btn-sm btn-success">Find More</a>
+                    <h3 class="card-title display-7 font-1">Scrubber Making Machine And Stainless Steel Wire</h3>
+                    <p class="card-text font-1">Approx ₹ 4 Lakhs</p>
+                    <a href="#" class="btn btn-sm btn-success font-1">Find More</a>
                 </div>
             </div>
         </div>
@@ -87,55 +87,41 @@
             Paper
         </h3>
         <hr>
-        <div class="row">
+        <div class="row m-auto">
             <div class="card col-sm-12 col-md-6 col-lg-3 my-3 py-5">
                 <img class="card-img-top" src="assets/images/product/paper-cone.png" alt="Card image cap">
                 <div class="card-body text-center">
-                    <h5 class="card-title">Paper Cone Machine</h5>
-                    <p class="card-text">Approx ₹ 45 Lakhs</p>
-                    <a href="#" class="btn btn-sm btn-success">Find More</a>
+                    <h3 class="card-title display-7 font-1">Paper Cone Machine</h3>
+                    <p class="card-text font-1">Approx ₹ 45 Lakhs</p>
+                    <a href="#" class="btn btn-sm btn-success font-1">Find More</a>
                 </div>
             </div>
             <div class="card col-sm-12 col-md-6 col-lg-3 my-3 py-5">
                 <img class="card-img-top" src="assets/images/product/paper-tube.png" alt="Card image cap">
                 <div class="card-body text-center">
-                    <h5 class="card-title">Paper Tube Machine</h5>
-                    <p class="card-text">Approx ₹ 23 Lakhs</p>
-                    <a href="#" class="btn btn-sm btn-success">Find More</a>
+                    <h3 class="card-title display-7 font-1">Paper Tube Machine</h3>
+                    <p class="card-text font-1">Approx ₹ 23 Lakhs</p>
+                    <a href="#" class="btn btn-sm btn-success font-1">Find More</a>
+                </div>
+            </div>
+            <div class="card col-sm-12 col-md-6 col-lg-3 my-3 py-4">
+                <img class="card-img-top" src="assets/images/product/v-paper-cone.png" alt="Card image cap">
+                <div class="card-body text-center">
+                    <h3 class="card-title display-7 font-1">Vertical Fully-Automatic Paper Cone Machine</h3>
+                    <p class="card-text font-1">Approx ₹ 4 Lakhs</p>
+                    <a href="#" class="btn btn-sm btn-success font-1">Find More</a>
                 </div>
             </div>
             <div class="card col-sm-12 col-md-6 col-lg-3 my-3">
                 <img class="card-img-top" src="assets/images/product/paper-cone-dryer.png" alt="Card image cap">
                 <div class="card-body text-center">
-                    <h5 class="card-title">Paper Cone Dryer</h5>
-                    <p class="card-text">Approx ₹ 9 Lakhs</p>
-                    <a href="#" class="btn btn-sm btn-success">Find More</a>
-                </div>
-            </div>
-            <div class="card col-sm-12 col-md-6 col-lg-3 my-3 py-3">
-                <img class="card-img-top" src="assets/images/product/v-paper-cone.png" alt="Card image cap">
-                <div class="card-body text-center">
-                    <h5 class="card-title">Vertical Fully-Automatic Paper Cone Machine</h5>
-                    <p class="card-text">Approx ₹ 4 Lakhs</p>
-                    <a href="#" class="btn btn-sm btn-success">Find More</a>
+                    <h3 class="card-title display-7 font-1">Paper Cone Dryer</h3>
+                    <p class="card-text font-1">Approx ₹ 9 Lakhs</p>
+                    <a href="#" class="btn btn-sm btn-success font-1">Find More</a>
                 </div>
             </div>
         </div>
-        <h3 class="fs-1 text-black mbr-text mbr-black mbr-regular mbr-fonts-style font-1 my-3">
-            Laser
-        </h3>
-        <hr>
-        <div class="row">
-            <div class="card col-sm-12 col-md-6 col-lg-3 my-3">
-                <img class="card-img-top" src="assets/images/product/v-paper-cone.png" alt="Card image cap">
-                <div class="card-body text-center">
-                    <h5 class="card-title">Fiber Laser Machine</h5>
-                    <p class="card-text">Approx ₹ 4 Lakhs</p>
-                    <a href="#" class="btn btn-sm btn-success">Find More</a>
-                </div>
-            </div>
-        </div>
-    </div>
+    </section>
 
     <!-- Footnote -->
     <?php include('footnote/footnote.php') ?>

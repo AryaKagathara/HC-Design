@@ -29,7 +29,7 @@
             <div class="mb-5 mx-3 mt-5">
               <span
                 class="mbr-fonts-style mbr-normal text-muted navbar-caption-wrap"
-                >Enhance your future with India's fastest growing machine
+                >Enhance your future with India's fastest growing fence machines
                 industry. Pride of the connecting technology for over a six
                 years.</span
               >

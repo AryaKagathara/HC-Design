@@ -33,11 +33,11 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="content-wrapper align-left">
-              <h2
+              <h1
                 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5"
               >
                 Team
-              </h2>
+              </h1>
             </div>
           </div>
         </div>
