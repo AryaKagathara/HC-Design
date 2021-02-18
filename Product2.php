@@ -8,8 +8,8 @@
     <meta name="generator" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
     <link rel="shortcut icon" href="assets/images/logo.svg" type="image/x-icon" />
-    <meta name="description" content="Hindustan Corporation Welded Wire Mesh Fencing Machine Rajkot Gujarat India" />
-    <title>Welded Wire Mesh Fencing Machine</title>
+    <meta name="description" content="WRITE ME FOR SEO PURPOSE" />
+    <title>Chain Link Fence Machine - Hindustan Corporation</title>
 
     <!-- Basic -->
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css" />
@@ -36,12 +36,12 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6 m-auto">
-                    <img src="assets/images/product/welded-wire.png" alt="Machine" title="HC" class="zoomer" />
+                    <img src="assets/images/product/chain-link.png" alt="Machine" title="HC" class="zoomer" />
                 </div>
                 <div class="col-lg-6">
                     <div class="content-wrapper align-left">
                         <h2 class="mbr-section-title mbr-semibold mbr-black mbr-fonts-style display-1">
-                            Welded Wire Mesh Fencing Machine
+                            Automatic Chain Link Fence Machine
                         </h2>
                         <h4 class="mbr-section-subtitle mbr-regular mbr-black pb-2 mbr-fonts-style display-4">
                             <strong>INDUSTRIES</strong> / PRODUCT
@@ -82,64 +82,63 @@
                         </h2>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-4 my-5">
+                    <div class="card-header bg-success mb-3">
+                        <h3 class="my-0 font-weight-normal text-center">Automatic</h3>
+                    </div>
                     <div class="mbr-text mbr-regular align-left mbr-fonts-style display-7">
                         <table class="table">
                             <tbody>
                                 <tr>
-                                    <th scope="row">Machine Weight</th>
-                                    <td>6000 kgs</td>
+                                    <th scope="row">Production Capacity</th>
+                                    <td>30-100 m2/h,80-100 kg Per Hour</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Output Current</th>
-                                    <td>300 - 400 Amps</td>
+                                    <th scope="row">Wire Diameter</th>
+                                    <td colspan="2">1.5 mm- 4 mm</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Welding Type</th>
-                                    <td colspan="2">Arc Welder</td>
+                                    <th scope="row">Operation Mode</th>
+                                    <td colspan="2">Automatic</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Voltage</th>
-                                    <td colspan="2">415 Volts or 440 Volts</td>
+                                    <td>415 V</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Frequency</th>
                                     <td colspan="2">50 Hz</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Wire Diameter Range</th>
-                                    <td colspan="2">2mm to 4mm</td>
+                                    <th scope="row">Phase</th>
+                                    <td colspan="2">3 Phase</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Mesh Hole Size</th>
-                                    <td colspan="2">1 Inch To 7 Inchs (Adjustable)</td>
+                                    <th scope="row">Mesh Opening</th>
+                                    <td colspan="2">25 x 25mm -100 x 100mm</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Mesh Width</th>
-                                    <td colspan="2">Max. 2 Meter. (Adjustable)</td>
+                                    <th scope="row">Max Width</th>
+                                    <td colspan="2">1ft-10ft</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Mesh Rolling Length</th>
-                                    <td colspan="2">100 m</td>
+                                    <th scope="row">Machine Weight</th>
+                                    <td colspan="2">1500 kg</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Welding Transformer</th>
-                                    <td colspan="2">100 Meters</td>
+                                    <th scope="row">Overall Dimensions</th>
+                                    <td colspan="2">1.5 x 3 x 2.5m</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Machine Working Space</th>
-                                    <td colspan="2">70ft x 25ft x 10ft (L x W x H)</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">Wire Feeding System</th>
+                                    <th scope="row">Mesh Border Wire Locking Treatment</th>
                                     <td colspan="2">
-                                        Line Wire Direct From Coiler Cross Wire Pre Cutted
+                                        Automatic
                                     </td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Welding Speed</th>
+                                    <th scope="row">Warranty</th>
                                     <td colspan="2">
-                                        40-80 times per minute (Depending on Hole size)
+                                        1 Year
                                     </td>
                                 </tr>
                                 <tr>
@@ -148,18 +147,175 @@
                                 </tr>
                             </tbody>
                         </table>
+                        <div class="text-center my-2">
+                            <h6>Approx</h6>
+                            <h1><b>₹ 10,00,000</b></h1>
+                            <h3><b>$11,000</b></h3>
+                            <button type="submit" class="btn btn-success display-7 col-lg-12" data-toggle="modal"
+                                data-target="#myModal">
+                                <span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>Ask Quote
+                                &nbsp;
+                            </button>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="mb-5">
-                        <h1 class="display-2">&ensp; Approx ₹ 25,00,000</h1>
-                        <button type="submit" class="btn btn-success display-7 col-lg-12" data-toggle="modal"
-                            data-target="#myModal">
-                            <span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>Ask Quote
-                            &nbsp;
-                        </button>
+                <div class="col-lg-4 my-5">
+                    <div class="mbr-text mbr-regular align-left mbr-fonts-style display-7">
+                        <div class="card-header bg-success mb-3">
+                            <h3 class="my-0 font-weight-normal text-center">Semi-Automatic</h3>
+                        </div>
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <th scope="row">Production Capacity</th>
+                                    <td>30-100 m2/h,80-100 kg Per Hour</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Wire Diameter</th>
+                                    <td colspan="2">1.5 mm- 4 mm</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Operation Mode</th>
+                                    <td colspan="2">Automatic</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Voltage</th>
+                                    <td>415 V</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Frequency</th>
+                                    <td colspan="2">50 Hz</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Phase</th>
+                                    <td colspan="2">3 Phase</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Mesh Opening</th>
+                                    <td colspan="2">25 x 25mm -100 x 100mm</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Max Width</th>
+                                    <td colspan="2">1ft-10ft</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Machine Weight</th>
+                                    <td colspan="2">1500 kg</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Overall Dimensions</th>
+                                    <td colspan="2">1.5 x 3 x 2.5m</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Mesh Border Wire Locking Treatment</th>
+                                    <td colspan="2">
+                                        Manual
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Warranty</th>
+                                    <td colspan="2">
+                                        1 Year
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Brand</th>
+                                    <td colspan="2">Bharat / India</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="text-center my-2">
+                            <h6>Approx</h6>
+                            <h1><b>₹ 7,50,000</b></h1>
+                            <h3><b>$9,000</b></h3>
+                            <button type="submit" class="btn btn-success display-7 col-lg-12" data-toggle="modal"
+                                data-target="#myModal">
+                                <span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>Ask Quote
+                                &nbsp;
+                            </button>
+                        </div>
                     </div>
-                    <p class="mbr-text mbr-regular align-left mbr-fonts-style display-7">
+                </div>
+                <div class="col-lg-4 my-5">
+                    <div class="mbr-text mbr-regular align-left mbr-fonts-style display-7">
+                        <div class="card-header bg-success mb-3">
+                            <h3 class="my-0 font-weight-normal text-center">Manual</h3>
+                        </div>
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <th scope="row">Production Capacity</th>
+                                    <td>30-100 m2/h,80-100 kg Per Hour</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Wire Diameter</th>
+                                    <td colspan="2">1.5 mm- 4 mm</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Operation Mode</th>
+                                    <td colspan="2">Automatic</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Voltage</th>
+                                    <td>415 V</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Frequency</th>
+                                    <td colspan="2">50 Hz</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Phase</th>
+                                    <td colspan="2">3 Phase</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Mesh Opening</th>
+                                    <td colspan="2">25 x 25mm -100 x 100mm</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Max Width</th>
+                                    <td colspan="2">1ft-10ft</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Machine Weight</th>
+                                    <td colspan="2">1500 kg</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Overall Dimensions</th>
+                                    <td colspan="2">1.5 x 3 x 2.5m</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Mesh Border Wire Locking Treatment</th>
+                                    <td colspan="2">
+                                        Manual
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Warranty</th>
+                                    <td colspan="2">
+                                        1 Year
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Brand</th>
+                                    <td colspan="2">Bharat / India</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="text-center my-2">
+                            <h6>Approx</h6>
+                            <h1><b>₹3,50,000</b></h1>
+                            <h3><b>$4,000</b></h3>
+                            <button type="submit" class="btn btn-success display-7 col-lg-12" data-toggle="modal"
+                                data-target="#myModal">
+                                <span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>Ask Quote
+                                &nbsp;
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-12 align-center">
+                    <p class="mbr-text mbr-regular align-left mbr-fonts-style display-7 text-center">
                         The third challenge is to take into consideration the business
                         version and the means customers are empowered as well as augmented
                         by supplying data to people in different levels of an
@@ -181,7 +337,6 @@
                         </h6>
                     </div>
                 </div>
-            </div>
         </div>
     </section>
 
@@ -229,7 +384,7 @@
                         <img src="assets/images/icons/heavy-weight.svg" style="width: 115px" />
                     </div>
                     <div class="my-3 text-center mbr-text mbr-regular mbr-fonts-style text-black">
-                        <h5>1000 kgs Per Hour</h5>
+                        <h5>350 kgs Per Hour</h5>
                         <p class="my-4">
                             Some quick example text to build on the card title and make up
                             the bulk of the card's content.
@@ -241,7 +396,7 @@
                         <img src="assets/images/icons/flash.svg" style="width: 115px" />
                     </div>
                     <div class="my-3 text-center mbr-text mbr-regular mbr-fonts-style text-black">
-                        <h5>Electric Concuption</h5>
+                        <h5>Electric Consumption Saver</h5>
                         <p class="my-4">
                             Some quick example text to build on the card title and make up
                             the bulk of the card's content.
@@ -292,13 +447,23 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="assets/images/product/welded-wire.png" alt="First slide" />
+                                <img class="d-block w-100" src="assets/images/product/chain-link.png"
+                                    alt="First slide" />
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5 class="font-1 text-black align-right">Automatic Chain Link Fence Machine</h5>
+                                </div>
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="assets/images/product/welded-wire2.jpg" alt="Second slide" />
+                                <img class="d-block w-100" src="assets/images/product/chain-link2.png"
+                                    alt="First slide" />
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="assets/images/product/welded-wire3.png" alt="Third slide" />
+                                <img class="d-block w-100" src="assets/images/product/chain-link3.jpg"
+                                    alt="Second slide" />
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100" src="assets/images/product/chain-link4.jpg"
+                                    alt="Third slide" />
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"

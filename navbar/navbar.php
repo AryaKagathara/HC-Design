@@ -29,14 +29,14 @@
             </div>
             <div class="collapse navbar-collapse d-flex flex-column" id="navbarSupportedContent">
                 <div class="row container">
-                    <h6 class="display-7 col-lg-6 align-right">
+                    <h3 class="display-7 col-lg-6 align-right">
                         <a class="mbr-text mb-0 mbr-fonts-style font-weight-bold font-1 text-black"
                             href="<?php echo "tel:",$array['Phone1']; ?>"><?php echo $array['Phone1']; ?></a>
-                    </h6>
-                    <h6 class="display-7 col-lg-6 align-center">
+                    </h3>
+                    <h3 class="display-7 col-lg-6 align-center">
                         <a class="mbr-text mb-0 mbr-fonts-style font-weight-bold font-1 text-black"
                             href="<?php echo "mailto:",$array['Email1']; ?>"><?php echo $array['Email1']; ?></a>
-                    </h6>
+                    </h3>
                 </div>
                 <div class="row">
                     <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
@@ -53,23 +53,22 @@
                             </a>
                             <div class="dropdown-menu">
                                 <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Chain Link
-                                    Fencing Machine</a>
-                                <a class="text-white dropdown-item display-4" href="Welded-Wire-Mesh-Fencing-Machine.php" aria-expanded="false">Welded Wire Mesh Fencing Machine</a>
+                                    Fence Machine</a>
+                                <a class="text-white dropdown-item display-4"
+                                    href="Welded-Wire-Mesh-Fencing-Machine.php" aria-expanded="false">Welded Wire Mesh
+                                    Fence Machine</a>
                                 <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Wire Mesh
-                                    Welding Machine</a>
+                                    Weld Machine</a>
+                                <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Barbed
+                                    Wire Fence Machine</a>
                                 <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Paper Cone
                                     Making Machine</a>
-                                <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Paper Cone
-                                    Winding Machine</a>
                                 <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Automatic
                                     Cone Dryer</a>
                                 <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Paper Tube
                                     Making Machine</a>
-                                <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Scrubber
-                                    Making Machine</a>
-                                <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Fiber Laser
-                                    Marking</a>
-                                <a class="text-white dropdown-item display-4 font-weight-bold bg-white text-black" href="allproducts.php" aria-expanded="false">More Products...</a>
+                                <a class="text-white dropdown-item display-4 font-weight-bold bg-white text-black"
+                                    href="allproducts.php" aria-expanded="false">More Products...</a>
                             </div>
                         </li>
                         <li class="nav-item">

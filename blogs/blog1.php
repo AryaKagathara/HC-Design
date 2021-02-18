@@ -36,13 +36,13 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="content-wrapper align-left">
-                        <h2 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
+                        <h1 class="mbr-section-title mbr-semibold pb-4 mbr-fonts-style display-1 mt-5">
                             Chain Link Fenicng Machine In Rajkot
-                        </h2>
+                        </h1>
                     </div>
-                    <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style text-center">12<sup>th</sup>
+                    <h5 class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style text-center">12<sup>th</sup>
                         Feburary,
-                        2020</p>
+                        2020</h5>
                 </div>
             </div>
         </div>
@@ -58,9 +58,6 @@
             <div class="row mb-5">
                 <div class="col-lg-12 title-col m-auto align-left">
                     <div class="align-left">
-                        <h2 class="mbr-section-title py-4 mbr-semibold mbr-black mbr-fonts-style display-5 font-1">
-
-                        </h2>
                         <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7">
                             Industry-leading business normally have a number of benefits,
                             such as valuing power, brand recognition as well as a dedicated

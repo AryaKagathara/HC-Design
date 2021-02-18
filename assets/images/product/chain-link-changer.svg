@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 700 500" style="enable-background:new 0 0 700 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:16.1592px;}
+</style>
+<g>
+	<path class="st0" d="M145.6,90.7c9.4-1.2,29.7-2.3,50,8.8c27.9,15.2,44.7,47.1,44.4,82.5"/>
+	<line class="st0" x1="240" y1="182" x2="228.3" y2="169.9"/>
+	<line class="st0" x1="240" y1="182" x2="251.5" y2="170.9"/>
+</g>
+<g>
+	<path class="st0" d="M119.8,324.2C82,324.4,67,303.1,64.5,271.5c-2.2-27.7,1.5-60.1,7-68"/>
+	<line class="st0" x1="119.8" y1="324.2" x2="107.9" y2="312.3"/>
+	<line class="st0" x1="119.8" y1="324.2" x2="108.5" y2="335.5"/>
+</g>
+<g>
+	<path class="st0" d="M509.5,95.7c-9.4-1.2-29.7-2.3-50,8.8c-27.9,15.2-44.7,47.1-44.4,82.5"/>
+	<line class="st0" x1="415.1" y1="187" x2="426.9" y2="174.9"/>
+	<line class="st0" x1="415.1" y1="187" x2="403.6" y2="175.9"/>
+</g>
+<text transform="matrix(1 0 0 1 29.3955 94.6426)" class="st1 st2">Semi-Automatic</text>
+<text transform="matrix(1 0 0 1 42.3955 198.6426)" class="st1 st2">Automatic</text>
+<text transform="matrix(1 0 0 1 514.3955 98.6426)" class="st1 st2">Manual</text>
+<image style="overflow:visible;" width="2052" height="1531" xlink:href="chain-link.png"  transform="matrix(0.222 0 0 0.222 122.2229 118.5081)">
+</image>
+</svg>
