@@ -60,9 +60,9 @@
                                 class="px-4 py-3 m-1 bg-white display-5 font-weight-bold col-lg-5 col-12 text-dark">Subscribe
                                 Our Newsletter &ensp;<img src="assets/images/icons/bell.svg" alt="bell"
                                     width="8%" /></a>
-                            <a href="<?php echo $array['Brousher']?>"
+                            <a href="<?php echo $array['Brochure']?>"
                                 class="px-4 py-3 m-1 bg-white display-5 font-weight-bold col-lg-5 col-12 text-dark" download>Download
-                                Our Brousher &ensp;<img src="assets/images/icons/download.svg" alt="download"
+                                Our Brochure &ensp;<img src="assets/images/icons/download.svg" alt="download"
                                     width="8%" /></a>
                         </div>
                         <div class="social1 cid-rpSeO1OpDl bg-transparent">

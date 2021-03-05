@@ -52,10 +52,10 @@
                                 Products
                             </a>
                             <div class="dropdown-menu">
-                                <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Chain Link
+                                <a class="text-white dropdown-item display-4" href="Chain-Link-Fence-Machine.php" aria-expanded="false">Automatic Chain Link
                                     Fence Machine</a>
                                 <a class="text-white dropdown-item display-4"
-                                    href="Welded-Wire-Mesh-Fencing-Machine.php" aria-expanded="false">Welded Wire Mesh
+                                    href="Welded-Wire-Mesh-Fence-Machine.php" aria-expanded="false">Welded Wire Mesh
                                     Fence Machine</a>
                                 <a class="text-white dropdown-item display-4" href="#" aria-expanded="false">Wire Mesh
                                     Weld Machine</a>

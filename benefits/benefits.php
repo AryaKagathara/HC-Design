@@ -9,8 +9,7 @@
                     <div class="my-3 text-center mbr-text mbr-regular mbr-fonts-style text-white">
                         <h5 class="font-1">Customization</h5>
                         <p class="my-4 font-1">
-                            Some quick example text to build on the card title and make up
-                            the bulk of the card's content.
+                            Machine can be customize for future extension for update this machine from old parts can also be possible.
                         </p>
                     </div>
                 </div>
@@ -21,8 +20,7 @@
                     <div class="my-3 text-center mbr-text mbr-regular mbr-fonts-style text-white">
                         <h5 class="font-1">Customer Favourite</h5>
                         <p class="my-4 font-1">
-                            Some quick example text to build on the card title and make up
-                            the bulk of the card's content.
+                            Customers are admired our products for better functioning, production capacity, easy to operate and mainly for service.  
                         </p>
                     </div>
                 </div>
@@ -33,8 +31,7 @@
                     <div class="my-3 text-center mbr-text mbr-regular mbr-fonts-style text-white">
                         <h5 class="font-1">Quick Supply</h5>
                         <p class="my-4 font-1">
-                            Some quick example text to build on the card title and make up
-                            the bulk of the card's content.
+                            Machine will be available in few weeks after you order this machine by signing policy and agreements.
                         </p>
                     </div>
                 </div>
@@ -45,8 +42,7 @@
                     <div class="my-3 text-center mbr-text mbr-regular mbr-fonts-style text-white">
                         <h5 class="font-1">Warranty</h5>
                         <p class="my-4 font-1">
-                            Some quick example text to build on the card title and make up
-                            the bulk of the card's content.
+                            Official 1 Year Warranty on any primarily parts and circuits of the machine.
                         </p>
                     </div>
                 </div>

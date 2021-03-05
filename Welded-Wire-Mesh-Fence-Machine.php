@@ -160,19 +160,12 @@
                         </button>
                     </div>
                     <p class="mbr-text mbr-regular align-left mbr-fonts-style display-7">
-                        The third challenge is to take into consideration the business
-                        version and the means customers are empowered as well as augmented
-                        by supplying data to people in different levels of an
-                        organization. Offering information in an easy to use manner will
-                        inevitably raise both understandings sharing as well as customer
-                        performance assisting companies to function a lot more effective.
-                        <br /><br />
-                        The third challenge is to take into consideration the business
-                        version and the means customers are empowered as well as augmented
-                        by supplying data to people in different levels of an
-                        organization. Offering information in an easy to use manner will
-                        inevitably raise both understandings sharing as well as customer
-                        performance assisting companies to function a lot more effective.
+                        The machine is equipped with advance cutting tools and welding types of equipment. A
+                        team of a worker who is upskilled and guided under highly qualified professional engineers
+                        can manufactured this fence machines. Manufacturing tasks are taken care of by
+                        applying all necessary procedures and parameters. All circuits and parts are tested properly
+                        before loading any machine into a truck of any client. The main advantage of this product is that
+                        the whole machine is made in India, which can assure Reliability, Scaleability and Robustness.
                     </p>
                     <div class="my-5 align-center">
                         <img src="assets/images/india.png" alt="flag" width="100px" />
@@ -276,10 +269,9 @@
                         Gallary
                     </h2>
                     <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7">
-                        We are always happy to see new connections in our enterprise. If
-                        you have want to take first step in your business world we would
-                        be happy to see you on our clients board.<br /><br />We would
-                        offer you a best package, good product and the nice condition of
+                        Check out the machine and what this machine is capable to produce with better clarification.
+                        <br/><br/>
+                        We would offer you a best package, good product and the nice condition of
                         services. Every year we provide you an advanced products.&nbsp;
                     </p>
                 </div>
@@ -292,13 +284,16 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="assets/images/product/welded-wire.png" alt="First slide" />
+                                <img class="d-block w-100" src="assets/images/product/welded-wire.png"
+                                    alt="First slide" />
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="assets/images/product/welded-wire2.jpg" alt="Second slide" />
+                                <img class="d-block w-100" src="assets/images/product/welded-wire2.jpg"
+                                    alt="Second slide" />
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="assets/images/product/welded-wire3.png" alt="Third slide" />
+                                <img class="d-block w-100" src="assets/images/product/welded-wire3.png"
+                                    alt="Third slide" />
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"

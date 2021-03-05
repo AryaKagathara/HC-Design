@@ -49,9 +49,25 @@
             <h2 class="mbr-section-title py-4 mbr-semibold mbr-black mbr-fonts-style display-2 font-1 text-center mb-5">
                 Hindustan Corporation
             </h2>
+            <div class="row">
+            <div class="col-12 title-col align-left">
+                    <div class="align-left">
+                        <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7 font-1">
+                            Hindustan Corporation is a machine manufacturing company. The company was established in
+                            2014 with a bright and futuristic vision to grow mechanical industries not just in India,
+                            but in the world. It has delivered hundreds of machines to various customers from over the
+                            globe and completed their dream business. Hindustan Corporation has fundamentally focused on
+                            innovation and manufacturing advance fence machine. Over the past few years for solving
+                            major obstacles to threats like a wild animal, thieves in private and public areas which
+                            include farms, industries, housing and protected sector, parks.
+                        </p>
+                    </div>
+                </div>
+            </div>
             <div class="row mb-5">
                 <div class="col-lg-6 img-col order-sm-0 order-1">
-                    <img src="assets/images/main.svg" title="Industries" alt="Hindustan Corporation Fence Machine Industry Physical Site, Buildings, Factory, Trucks"/>
+                    <img src="assets/images/main.svg" title="Industries"
+                        alt="Hindustan Corporation Fence Machine Industry Physical Site, Buildings, Factory, Trucks" />
                 </div>
                 <div class="col-lg-6 title-col m-auto align-left">
                     <div class="align-left">
@@ -59,15 +75,13 @@
                             Industries
                         </h2>
                         <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7">
-                            Industry-leading business normally have a number of benefits,
-                            such as valuing power, brand recognition as well as a dedicated
-                            customer base. It takes some time to attain a dominant position
-                            in an industry, and maintaining that leadership placement is a
-                            continuous initiative. Industry-leading business normally have a
-                            number of benefits, such as valuing power, brand recognition as
-                            well as a dedicated customer base. It takes some time to attain
-                            a dominant position in an industry, and maintaining that
-                            leadership placement is a continuous initiative.
+                            The manufacturing plant of Hindustan Corporation sited in different cities in Gujarat,
+                            India. The plant is equipped with advance cutting tools and welding types of equipment. A
+                            team of a worker who is upskilled and guided under highly qualified professional engineers
+                            can manufacture fence and paper cone machines. Manufacturing tasks are taken care of by
+                            applying all necessary procedures and parameters. All circuits and parts are tested properly
+                            before loading any machine into a truck of any client. The main advantage of our product is that the
+                            whole machine is made in India, which can assure Reliability, Scaleability and Robustness.
                         </p>
                     </div>
                 </div>
@@ -92,57 +106,19 @@
                     </div>
                 </div>
                 <div class="col-lg-6 img-col order-sm-1 order-0">
-                    <img src="assets/images/main2.svg" title="Office" alt="Hindustan Corporation Fence Machine Industry Head Office, Buildings, Complex, City"/>
+                    <img src="assets/images/main2.svg" title="Office"
+                        alt="Hindustan Corporation Fence Machine Industry Head Office, Buildings, Complex, City" />
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 title-col align-left">
-                    <div class="align-left">
-                        <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7 font-1">
-                            Industry-leading business normally have a number of benefits,
-                            such as valuing power, brand recognition as well as a dedicated
-                            customer base. It takes some time to attain a dominant position
-                            in an industry, and maintaining that leadership placement is a
-                            continuous initiative. Industry-leading business normally have a
-                            number of benefits, such as valuing power, brand recognition as
-                            well as a dedicated customer base.
-                            Industry-leading business normally have a number of benefits,
-                            such as valuing power, brand recognition as well as a dedicated
-                            customer base. It takes some time to attain a dominant position
-                            in an industry, and maintaining that leadership placement is a
-                            continuous initiative. Industry-leading business normally have a
-                            number of benefits, such as valuing power, brand recognition as
-                            well as a dedicated customer base.
-                            Industry-leading business normally have a number of benefits,
-                            such as valuing power, brand recognition as well as a dedicated
-                            customer base. It takes some time to attain a dominant position
-                            in an industry, and maintaining that leadership placement is a
-                            continuous initiative. Industry-leading business normally have a
-                            number of benefits, such as valuing power, brand recognition as
-                            well as a dedicated customer base.
-                            Industry-leading business normally have a number of benefits,
-                            such as valuing power, brand recognition as well as a dedicated
-                            customer base. It takes some time to attain a dominant position
-                            in an industry, and maintaining that leadership placement is a
-                            continuous initiative. Industry-leading business normally have a
-                            number of benefits, such as valuing power, brand recognition as
-                            well as a dedicated customer base.
-                            Industry-leading business normally have a number of benefits,
-                            such as valuing power, brand recognition as well as a dedicated
-                            customer base. It takes some time to attain a dominant position
-                            in an industry, and maintaining that leadership placement is a
-                            continuous initiative. Industry-leading business normally have a
-                            number of benefits, such as valuing power, brand recognition as
-                            well as a dedicated customer base.
-                        </p>
-                    </div>
-                </div>
                 <div class="row d-flex justify-content-around">
                     <div class="col-sm-3 col-md-4 col-lg-3">
-                        <img src="assets/images/product/welded-wire3.png" alt="Hindustan Corporation Welded Wire Fence Machine Product, Product, Wire">
+                        <img src="assets/images/product/welded-wire3.png"
+                            alt="Hindustan Corporation Welded Wire Fence Machine Product, Product, Wire">
                     </div>
                     <div class="col-sm-3 col-md-4 col-lg-3">
-                        <img src="assets/images/product/paper-cones.png" alt="Hindustan Corporation Colered Paper Cone Machine Product, Red, Blue, Green, Paper Cone">
+                        <img src="assets/images/product/paper-cones.png"
+                            alt="Hindustan Corporation Colered Paper Cone Machine Product, Red, Blue, Green, Paper Cone">
                     </div>
                 </div>
                 <div class="m-auto py-5 align-center">

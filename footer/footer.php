@@ -99,8 +99,8 @@
             <div>
               <div class="row mb-3">
                 <a class="btn-sm btn-success display-7 col-12 text-center py-4"
-                href="<?php echo $array['Brousher']; ?>" download
-                  >Download Our Brousher</a
+                href="<?php echo $array['Brochure']; ?>" download
+                  >Download Our Brochure</a
                 >
               </div>
               <div class="row">

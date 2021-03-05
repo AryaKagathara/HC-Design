@@ -9,7 +9,8 @@
     <meta name="generator" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
     <link rel="shortcut icon" href="assets/images/logo.svg" type="image/x-icon" />
-    <meta name="description" content="Hindustan Corporation is an India's popular and largest manufacturer of fence machines. It has expertise in fence making machines and paper cone making machines for since 2014." />
+    <meta name="description"
+        content="Hindustan Corporation is an India's popular and largest manufacturer of fence machines. It has expertise in fence making machines and paper cone making machines for since 2014." />
     <title>Home - Fence Making Machinery & Paper Cone Making Machinery : Hindustan Corporation</title>
 
     <!-- Basic -->
@@ -61,20 +62,24 @@
                                         alt="Chain Link Fence Machine, It is a automatic machine which can fabricate and generate immense production of criss cross chain link fence. Orange, Big, Metal, Technology Machine" />
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100 zoomer my-5 py-5" src="assets/images/product/welded-wire.png"
+                                    <img class="d-block w-100 zoomer my-5 py-5"
+                                        src="assets/images/product/welded-wire.png"
                                         alt="Welded Wire Mesh Fence Machine, It is a electric machine which can manufacture strengthy welded fence. Orange, Big, Metal, Technology Machine" />
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100 zoomer my-5 py-5" src="assets/images/product/wire-mesh.png"
-                                    alt="Wire Mesh Fence Machine, It is a strong machine which can manufacture strengthy welded fence with welding through electricity. Blue, Big, Metal, Technology Machine" />
+                                    <img class="d-block w-100 zoomer my-5 py-5"
+                                        src="assets/images/product/wire-mesh.png"
+                                        alt="Wire Mesh Fence Machine, It is a strong machine which can manufacture strengthy welded fence with welding through electricity. Blue, Big, Metal, Technology Machine" />
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100 zoomer my-5 py-5" src="assets/images/product/paper-cone.png"
-                                    alt="Fully Automatic Paper Cone Machine, It is a big machine which can create paper cone of different colors from thin paper using dye. Blue, Big, Metal, Technology Machine" />
+                                    <img class="d-block w-100 zoomer my-5 py-5"
+                                        src="assets/images/product/paper-cone.png"
+                                        alt="Fully Automatic Paper Cone Machine, It is a big machine which can create paper cone of different colors from thin paper using dye. Blue, Big, Metal, Technology Machine" />
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100 zoomer my-5 py-5" src="assets/images/product/paper-tube.png"
-                                    alt="Paper Tube Machine, It is a small machine which can create line of paper tube or paper strip of from thin paper. Blue, Big, Metal, Technology Machine" />
+                                    <img class="d-block w-100 zoomer my-5 py-5"
+                                        src="assets/images/product/paper-tube.png"
+                                        alt="Paper Tube Machine, It is a small machine which can create line of paper tube or paper strip of from thin paper. Blue, Big, Metal, Technology Machine" />
                                 </div>
                             </div>
                             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"
@@ -101,6 +106,10 @@
                             </div>
                             Of Wire Fence Machines
                         </h1>
+                        <div class="m-1 my-4">
+                            <a href="allproducts.php"
+                                class="btn-sm btn-dark text-white display-7 col-12 text-center p-3">All Products</a>
+                        </div>
                         <h4 class="mbr-section-subtitle mbr-regular mbr-black pb-2 mbr-fonts-style display-4">
                             <strong>INDUSTRIES</strong> / FENCE
                         </h4>
@@ -129,9 +138,12 @@
                             Industry Efficiency
                         </h3>
                         <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7 text-black">
-                            Wire fencing is very popular security product which can help us to fight back against intruders and wild animals which can damage your personal property.
-                            Till now most fence were made by several by workers and it taked very lengthy time to manufacture just some yards of fence.
-                            Fence Machines has changed the numbers of production and hours to produce in less cost.<br />
+                            Wire fencing is very popular security product which can help us to fight back against
+                            intruders and wild animals which can damage your personal property.
+                            Till now most fence were made by several by workers and it taked very lengthy time to
+                            manufacture just some yards of fence.
+                            Fence Machines has changed the numbers of production and hours to produce in less
+                            cost.<br />
                         </p>
                     </div>
                 </div>
@@ -148,7 +160,8 @@
                                 Fence Industries
                             </h4>
                             <p class="box-text2 mbr-regular mbr-white pb-2 mbr-fonts-style display-5">
-                                Fence industry is a now growing at very excessive growth. Numerious machines are now available for different kind of fences.&nbsp;
+                                Fence industry is a now growing at very excessive growth. Numerious machines are now
+                                available for different kind of fences.&nbsp;
                             </p>
                         </div>
                     </div>
@@ -186,7 +199,8 @@
                                 Order
                             </h3>
                             <p class="box-text2 mbr-regular mbr-white pb-2 mbr-fonts-style display-5">
-                                Machine ordering and buying process just take some several minutes and signing an aggrement. &nbsp;
+                                Machine ordering and buying process just take some several minutes and signing an
+                                aggrement. &nbsp;
                             </p>
                         </div>
                     </div>
@@ -222,7 +236,7 @@
                                 Delivery
                             </h3>
                             <h3 class="box-text2 mbr-regular mbr-white pb-2 mbr-fonts-style display-5">
-                                Fence machine loading and supply will be managed as per your call. 
+                                Fence machine loading and supply will be managed as per your call.
                             </h3>
                         </div>
                     </div>
@@ -231,10 +245,11 @@
                 <div class="col-lg-6 col-md-12 block2 align-left">
                     <div class="content-block">
                         <h3 class="mbr-section-title mbr-semibold mbr-black pb-4 mbr-fonts-style display-2">
-                                <span style="font-size: 2.6rem">Professional Training</span><br />
+                            <span style="font-size: 2.6rem">Professional Training</span><br />
                         </h3>
                         <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7">
-                            Qualified technician will give training to your workers for a week. All the necessary emeregency and fault repairing fixes will be taught.<br />
+                            Qualified technician will give training to your workers for a week. All the necessary
+                            emeregency and fault repairing fixes will be taught.<br />
                         </p>
                     </div>
                 </div>
@@ -263,23 +278,18 @@
                 </div>
                 <div class="col-lg-6">
                     <p class="mbr-text mbr-regular align-left mbr-fonts-style display-7">
-                        In order to allow the change to service economic climate, one
-                        needs to reap the benefits brand-new technology such as IoT and
-                        also information science offers. The new modern technology has
-                        currently matured to such a level that it is readily available at
-                        an affordable expense making IoT as well as information science
-                        two crucial columns to sustain the change to a solution economic
-                        situation.
+                        Advance fence machine has revolutionized and helping thousands of business and solved the
+                        security problem of common people. Nowadays fence machines are so advanced that it can produce
+                        yards of a fence in a couple of hours with less consumption of electricity, by just one person
+                        operator so business owners need to operate workers only on fixing the fence at a needy place.
                     </p>
                 </div>
                 <div class="col-lg-6">
                     <p class="mbr-text mbr-regular align-left mbr-fonts-style display-7">
-                        The third challenge is to take into consideration the business
-                        version and the means customers are empowered as well as augmented
-                        by supplying data to people in different levels of an
-                        organization. Offering information in an easy to use manner will
-                        inevitably raise both understandings sharing as well as customer
-                        performance assisting companies to function a lot more effective.
+                        Fence machines are now available with touch screen and automation technology with are very easy
+                        to operate by a worker by giving few days of training. New servo motors are installed in the
+                        machine which can shift all parts of the machine without any force. Latest PVC controller is
+                        taking all care of decision making of any component of the machine.
                     </p>
                 </div>
             </div>
@@ -293,8 +303,9 @@
                 <div class="card col1 p-3 col-12 col-md-8 col-lg-4">
                     <div class="card-wrapper">
                         <div class="text-wrap align-left">
-                            <h2 class="mbr-section-title align-left py-4 mbr-semibold mbr-white mbr-fonts-style display-2">
-                               Fence Machine Manufacturing
+                            <h2
+                                class="mbr-section-title align-left py-4 mbr-semibold mbr-white mbr-fonts-style display-2">
+                                Fence Machine Manufacturing
                             </h2>
                             <p class="mbr-text mbr-black align-left mbr-regular mbr-light mbr-fonts-style display-5">
                                 Production sector describes those markets which associate with
@@ -308,14 +319,16 @@
                 <div class="card col2 p-3 col-12 col-md-8 col-lg-4">
                     <div class="card-wrapper">
                         <div class="img-wrap">
-                            <img src="assets/images/0100.jpg" alt="Image" alt="Hindustan Corporation Fence Industry Comapny Histroy and Condition"/>
+                            <img src="assets/images/0100.jpg" alt="Image"
+                                alt="Hindustan Corporation Fence Industry Comapny Histroy and Condition" />
                         </div>
                         <div class="card-box">
                             <h3 class="card-title pb-2 align-left mbr-white mbr-fonts-style display-5">
                                 Industries
                             </h3>
                             <p class="mbr-text align-left mbr-regular mbr-white mbr-fonts-style display-7">
-                                Our fence industry is very well trasnformed over certain period and have proved ourselves by our magnificeint outcomes.&nbsp;
+                                Our fence industry is very well trasnformed over certain period and have proved
+                                ourselves by our magnificeint outcomes.&nbsp;
                             </p>
                         </div>
                         <a href="about.php"><span class="mbr-iconfont icon mobi-mbri-right mobi-mbri"></span></a>
@@ -332,7 +345,8 @@
                                 Team
                             </h3>
                             <p class="mbr-text mbr-regular align-left mbr-white mbr-fonts-style display-7">
-                                Only true professionals work in our team. If you want you can always take our clients feedbacks and by visiting our site.
+                                Only true professionals work in our team. If you want you can always take our clients
+                                feedbacks and by visiting our site.
                             </p>
                         </div>
                         <a href="team.php"><span class="mbr-iconfont icon mobi-mbri-right mobi-mbri"></span></a>

@@ -55,7 +55,7 @@
                 <div class="card-body text-center">
                     <h3 class="card-title display-7 font-1">Welded Wire Mesh Fencing Machine</h3>
                     <p class="card-text font-1">Approx ₹ 25 Lakhs</p>
-                    <a href="Welded-Wire-Mesh-Fencing-Machine.php" class="btn btn-sm btn-success font-1">Find More</a>
+                    <a href="Welded-Wire-Mesh-Fence-Machine.php" class="btn btn-sm btn-success font-1">Find More</a>
                 </div>
             </div>
             <div class="card col-sm-12 col-md-6 col-lg-3 my-3 py-4">
@@ -69,9 +69,9 @@
             <div class="card col-sm-12 col-md-6 col-lg-3 my-3 py-2">
                 <img class="card-img-top" src="assets/images/product/chain-link.png" alt="Card image cap">
                 <div class="card-body text-center">
-                    <h3 class="card-title display-7 font-1">Chain Link Fencing Machine</h3>
+                    <h3 class="card-title display-7 font-1">Automatic Chain Link Fencing Machine</h3>
                     <p class="card-text font-1">Approx ₹ 9 Lakhs</p>
-                    <a href="#" class="btn btn-sm btn-success font-1">Find More</a>
+                    <a href="Chain-Link-Fence-Machine.php" class="btn btn-sm btn-success font-1">Find More</a>
                 </div>
             </div>
             <div class="card col-sm-12 col-md-6 col-lg-3 my-3">
